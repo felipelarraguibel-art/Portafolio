@@ -7,7 +7,7 @@ Este proyecto tiene como propósito desarrollar un modelo robusto de clasificaci
 
 El enfoque principal consiste en transformar datos crudos en conocimiento accionable, utilizando técnicas avanzadas de ciencia de datos para identificar los factores subyacentes que mejor explican la variabilidad del bienestar económico global.
 
-Objetivos Estratégicos
+**Objetivos Estratégicos**
 
 Imputación y Calidad de Datos: Implementar protocolos rigurosos de limpieza y tratamiento de datos faltantes para asegurar la integridad del análisis.
 
@@ -15,7 +15,7 @@ Reducción de Complejidad: Aplicar Análisis de Componentes Principales (PCA) pa
 
 Modelado Predictivo: Evaluar y desplegar algoritmos de clasificación que categoricen con precisión el nivel de PIB de un país basándose en sus métricas de desarrollo.
 
-Estructura Metodológica
+**Estructura Metodológica**
 
 El desarrollo se divide en tres fases críticas, cada una gestionada en ramas independientes para mantener la trazabilidad del código:
 
@@ -25,7 +25,7 @@ Etapa 2: Optimización de Dimensionalidad: Estandarización de variables numéri
 
 Etapa 3: Clasificación y Evaluación: Entrenamiento de modelos de aprendizaje supervisado para la predicción final del nivel económico.
 
-Tecnologías Utilizadas
+**Tecnologías Utilizadas**
 
 Lenguaje: Python
 
